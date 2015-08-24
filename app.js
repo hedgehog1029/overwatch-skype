@@ -1,5 +1,4 @@
-var irc = require("irc"),
-    colors = require("colors");
+var colors = require("colors");
 
 // Init.
 var logger = require("./lib/log.js"),
